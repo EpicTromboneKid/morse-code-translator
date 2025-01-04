@@ -1,0 +1,6 @@
+[package]
+name = "morse-code-translator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
